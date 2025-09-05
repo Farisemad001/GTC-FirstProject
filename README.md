@@ -57,5 +57,5 @@ The goal is to transform the raw **hotel_bookings.csv** dataset into a clean, ma
 ## 📌 How to Run
 1. Clone the repo:  
    ```bash
-   git clone https://github.com/Farisemad001/GTC-First_Project.git
+   git clone https://github.com/Farisemad001/GTC-FirstProject.git
    cd GTC-First_Project
